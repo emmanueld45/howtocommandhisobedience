@@ -5,13 +5,13 @@
 // ==========================================================================
 // 🔗 CONFIGURATION: SET YOUR SELAR PRODUCT LINK HERE
 // ==========================================================================
-const SELAR_CHECKOUT_URL = "https://selar.co/your-ebook-link";
+const SELAR_CHECKOUT_URL = "https://selar.com/9v9203v295";
 
 document.addEventListener('DOMContentLoaded', () => {
   // Update all Selar links automatically from configuration
   const selarLinks = document.querySelectorAll('.selar-link');
   selarLinks.forEach(link => {
-    if (SELAR_CHECKOUT_URL && SELAR_CHECKOUT_URL !== "https://selar.co/your-ebook-link") {
+    if (SELAR_CHECKOUT_URL && SELAR_CHECKOUT_URL !== "https://selar.com/9v9203v295") {
       link.setAttribute('href', SELAR_CHECKOUT_URL);
     }
   });
