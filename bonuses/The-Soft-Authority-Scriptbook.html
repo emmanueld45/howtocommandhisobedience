@@ -125,9 +125,14 @@
       font-size: 1.2rem;
       color: var(--primary);
     }
+    @page {
+      size: A4 portrait;
+      margin: 18mm 18mm 18mm 18mm;
+    }
     @media print {
       body { padding: 0; background: #fff; }
-      .container { box-shadow: none; border: none; padding: 20px; }
+      .container { box-shadow: none; border: none; padding: 0; max-width: 100%; }
+      a { text-decoration: none; color: inherit; }
     }
   </style>
 </head>
