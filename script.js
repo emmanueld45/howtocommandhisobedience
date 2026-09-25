@@ -71,10 +71,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
       if (score >= 2) {
         resultTitle.textContent = "Your Pattern: The 'Over-Accommodating Negotiator' Dynamic";
-        resultDesc.innerHTML = "You have an abundance of warmth (Light Femininity), but you have been inadvertently over-functioning and explaining yourself away. This causes men to treat your requests as negotiable suggestions rather than boundaries. <strong>The Chapter 4 'Soft Authority Voice' and Chapter 6 'Reward Loop' will be your immediate breakthrough.</strong>";
+        resultDesc.innerHTML = "You have an abundance of warmth, but in dating or relationships you have been inadvertently over-functioning, giving too much too early, or explaining yourself away. This causes men to treat your requests as negotiable suggestions. <strong>Chapter 4 ('The Soft Authority Voice') and Chapter 6 ('The Devotion Reward Loop') will be your immediate breakthrough.</strong>";
       } else {
         resultTitle.textContent = "Your Pattern: The 'Anxious Performer' Dynamic";
-        resultDesc.innerHTML = "You find yourself auditioning for emotional safety and over-analyzing his texting cues and shifts in mood. <strong>Chapter 2 (Dark Feminine Gravity) and Chapter 9 (The Obsession Trigger) will permanently return you to the prize position.</strong>";
+        resultDesc.innerHTML = "You find yourself auditioning for emotional safety, second-guessing communication cues, and letting men set the pace. <strong>Chapter 2 ('Dark Feminine Gravity') and Chapter 9 ('The Obsession Trigger') will permanently establish you in the prize position from day one.</strong>";
       }
     }
   };

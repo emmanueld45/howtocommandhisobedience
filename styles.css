@@ -710,6 +710,76 @@ body {
   margin-top: 3px;
 }
 
+/* Protected Blur Content Effects */
+.blur-container {
+  position: relative;
+  overflow: hidden;
+}
+
+.blurred-content {
+  filter: blur(5.5px);
+  user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  pointer-events: none;
+  opacity: 0.72;
+  transition: all var(--transition-normal);
+}
+
+.blur-overlay-badge {
+  position: absolute;
+  top: 58%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: rgba(26, 5, 15, 0.92);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border: 1px solid rgba(212, 175, 55, 0.6);
+  color: var(--color-champagne);
+  padding: 10px 20px;
+  border-radius: var(--radius-full);
+  font-size: 0.82rem;
+  font-weight: 700;
+  letter-spacing: 1px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5), 0 0 15px rgba(212, 175, 55, 0.2);
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  z-index: 5;
+  text-transform: uppercase;
+  pointer-events: none;
+  white-space: nowrap;
+}
+
+.chapter-body.blur-container {
+  min-height: 110px;
+}
+
+.chapter-blur-badge {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: rgba(41, 11, 25, 0.95);
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+  border: 1px solid rgba(212, 175, 55, 0.4);
+  color: var(--color-champagne);
+  padding: 6px 14px;
+  border-radius: var(--radius-full);
+  font-size: 0.76rem;
+  font-weight: 700;
+  letter-spacing: 0.8px;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  z-index: 3;
+  pointer-events: none;
+  white-space: nowrap;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
+}
+
 /* Quote Banner / Big Truth Callout */
 .quote-banner {
   background: linear-gradient(135deg, #3d1025 0%, #1f0712 100%);
