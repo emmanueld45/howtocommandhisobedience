@@ -1,0 +1,115 @@
+================================================================================
+AI VIDEO AD PRODUCTION SCRIPTS & SCENE PROMPTS
+Ebook: How to Command His Obedience (Without Him Noticing)
+================================================================================
+
+GLOBAL VOICEOVER & STYLE GUIDELINES:
+- Voice Persona: Female, 25-32 years old. Warm, low register, calm, unhurried, magnetic (Soft Authority register).
+- ElevenLabs Settings: Stability: 70%, Clarity: 80%, Style: 15%.
+- Music: Minimal luxury background cello / ambient pads (-22dB under speech).
+
+================================================================================
+CONCEPT 1: "THE QUIET SHIFT" (30 - 45 Seconds)
+Ideal for: Facebook Feed, Instagram Feed & Stories, Ads Manager
+================================================================================
+
+SCENE 1 (0:00 - 0:06):
+- Visual: An elegant Black woman in a moody luxury cafe glances down at her phone with calm detachment, then looks up with serene, knowing poise.
+- AI Video Prompt (Kling / Runway Gen-3 / Luma):
+  Cinematic portrait of an elegant Black woman in her late 20s with soft textured locs, wearing a silk cowl-neck burgundy dress, sitting at a candlelit dark wood table. Warm ambient golden rim lighting, natural 35mm film grain, photorealistic skin texture, slow camera push-in on her calm, confident expression. 4k resolution, cinematic lighting.
+- On-Screen Text: "Notice how some women never have to ask twice?"
+- Voiceover (VO): "Notice how some women are constantly explaining their feelings and begging for bare minimum effort..."
+
+SCENE 2 (0:06 - 0:14):
+- Visual: Cut to an upscale lounge. A well-dressed handsome man attentively leaning forward across a marble table, offering full attention and gentle reverence to a woman.
+- AI Video Prompt (Kling / Runway Gen-3 / Luma):
+  Cinematic over-the-shoulder shot in an upscale lounge. A handsome, well-dressed man attentively leaning forward across a polished marble table, offering full attention and gentle reverence to a poised woman sitting opposite him. Luxurious atmospheric lighting, shallow depth of field, 8k.
+- On-Screen Text: "While other women are effortlessly prioritized from Day 1."
+- Voiceover (VO): "...while other women step into a room, and men instinctively rush to honor, protect, and commit to them from day one?"
+
+SCENE 3 (0:14 - 0:24):
+- Visual: Close-up of the woman resting her hands calmly on a marble desk next to a black and gold mug with a gold crown and stacked leather books.
+- AI Video Prompt (Kling / Runway Gen-3 / Luma):
+  Close-up shot of an elegant woman with glowing skin, gold hoop earrings, resting her hands calmly on a sleek executive desk. A luxury leather journal and black and gold mug with crown emblem in the foreground. Smooth slow motion, deep plum and rose gold ambient tones.
+- On-Screen Text: "It's not luck. It's Dark Feminine Gravity."
+- Voiceover (VO): "The difference isn't luck or physical looks. It's a behavioral dynamic called Dark Feminine Gravity — and the Soft Authority Register."
+
+SCENE 4 (0:24 - 0:34):
+- Visual: 3D luxury book mockup titled "HOW TO COMMAND HIS OBEDIENCE" on a desk next to an iPad showing the chapter list.
+- AI Video Prompt (Kling / Runway Gen-3 / Luma):
+  Clean commercial product shot of a 3D luxury hardcover ebook titled 'HOW TO COMMAND HIS OBEDIENCE' on a marble desk next to an iPad with glowing screen. Soft golden lighting, burgundy reflections, ultra-sharp detail.
+- On-Screen Text: "The Soft Authority Voice • The Hero Instinct • The Devotion Loop"
+- Voiceover (VO): "When you learn how to state standards without apologizing, activate his hero instinct, and hold quiet boundaries, men stop negotiating and start following your lead."
+
+SCENE 5 (0:34 - 0:42):
+- Visual: The woman smiles with quiet warmth toward the camera in a modern high-rise luxury apartment with city lights.
+- AI Video Prompt (Kling / Runway Gen-3 / Luma):
+  Medium shot of a radiant, sophisticated Black woman smiling serenely, confident eye contact, luxury modern apartment background with warm city lights outside the window. Smooth slow zoom out, premium editorial look.
+- On-Screen Text: 
+  GET THE COMPLETE 10-CHAPTER GUIDE — ₦4,500
+  Instant PDF & ePub Download + 3 Free Bonuses
+  👉 Tap 'Learn More' Below
+- Voiceover (VO): "Download the complete 10-chapter guide today for just ₦4,500. Tap the link below for immediate access."
+
+
+================================================================================
+CONCEPT 2: "THE 3 SUBCONSCIOUS MISTAKES" (30 - 40 Seconds)
+Ideal for: TikTok, Instagram Reels, YouTube Shorts
+================================================================================
+
+SCENE 1 (0:00 - 0:05):
+- Visual: Close-up of a woman's hands holding a smartphone, deciding not to double-text, placing it face down on the table.
+- AI Video Prompt:
+  Close-up cinematic shot of woman’s hands holding a sleek smartphone in a luxury cafe, gently setting it face down on a dark marble table. Cinematic rim light, aesthetic moody backdrop.
+- On-Screen Text: "3 subtle habits that make men treat your standards as negotiable:"
+- Voiceover (VO): "If you want men to take your boundaries seriously, stop making these 3 subconscious mistakes."
+
+SCENE 2 (0:05 - 0:18):
+- Visual: Woman in a tailored plum blazer speaking with calm, grounded posture.
+- AI Video Prompt:
+  Medium portrait shot of an elegant woman in a tailored plum blazer, speaking calmly with quiet poise. Sophisticated executive office background, warm golden tones.
+- On-Screen Text:
+  1. Ending statements with "...if that's okay?"
+  2. Over-explaining your boundaries like justifications.
+- Voiceover (VO): "Number one: Softening your requests with '...if that's okay?'. Number two: Delivering long essays to explain your boundaries. Certainty doesn't need to justify itself."
+
+SCENE 3 (0:18 - 0:28):
+- Visual: Close-up of the woman smiling with serene confidence, natural locs, diamond pendant necklace.
+- AI Video Prompt:
+  Cinematic close-up of a Black woman with natural locs, graceful smile, wearing delicate teardrop diamond necklace, surrounded by soft bokeh lights.
+- On-Screen Text: "Speak softly with absolute standard."
+- Voiceover (VO): "When you switch to the Soft Authority Voice, he hears absolute conviction without a single raised voice or argument."
+
+SCENE 4 (0:28 - 0:35):
+- Visual: Ebook 3D mockup display with the 3 included bonuses.
+- On-Screen Text:
+  How to Command His Obedience (Without Him Noticing)
+  Includes 25+ Word-For-Word High-Value Scripts
+  👉 Tap 'Shop Now' for ₦4,500 Special Price
+- Voiceover (VO): "Get the full guide and 25+ word-for-word scripts inside 'How to Command His Obedience'. Tap below to claim your copy now."
+
+
+================================================================================
+CONCEPT 3: "THE CONTRAST: NEGOTIATED VS. OBEYED" (20 - 30 Seconds)
+Ideal for: Retargeting Ads & High-Converting Facebook Stories
+================================================================================
+
+SCENE 1 (0:00 - 0:06):
+- Visual: Side-by-side or quick cut between an exhausted woman scrolling her phone vs. a poised, radiant woman sitting with calm confidence.
+- On-Screen Text: The Negotiated Woman vs. The Obeyed Woman
+- Voiceover (VO): "There are two types of women in the dating world:"
+
+SCENE 2 (0:06 - 0:15):
+- Visual: Confident woman in burgundy cowl-neck dress enjoying her tea at a marble table with leather books.
+- On-Screen Text:
+  Left: Asks twice, over-functions, audits for texts.
+  Right: States once, holds gravity, effortlessly prioritized.
+- Voiceover (VO): "The woman who has to explain her feelings repeatedly... and the woman who embodies quiet gravity and is obeyed without question."
+
+SCENE 3 (0:15 - 0:25):
+- Visual: 3D Ebook cover display with launch price badge.
+- On-Screen Text:
+  Stop Negotiating. Command Devotion.
+  Instant PDF Access — Only ₦4,500 Today
+- Voiceover (VO): "Stop negotiating for his respect. Discover the quiet psychological shifts inside this official guide. Click below to start reading immediately."
+================================================================================
