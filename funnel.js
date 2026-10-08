@@ -197,7 +197,7 @@ const PLANS = {
       {
         h: "Complete Ebook & Bonuses",
         items: [
-          ["Full Ebook Edition + All 3 Fast-Action Bonuses", "Instant PDF & ePub download accessible on any smartphone, tablet, or laptop."]
+          ["Full Ebook Edition + All 3 Fast-Action Bonuses", "Instant PDF download accessible on any smartphone, tablet, or laptop."]
         ]
       },
       {
@@ -399,16 +399,14 @@ if (b3) {
     if (e) e.preventDefault();
     
     // Clear previous errors
-    ["e_name", "e_phone", "e_email", "e_form"].forEach(i => {
+    ["e_name", "e_phone", "e_form"].forEach(i => {
       const el = $(i);
       if (el) el.textContent = "";
     });
     
     const fname = $("fname");
-    const femail = $("femail");
     const name = fname ? fname.value.trim().replace(/\s+/g, " ") : "";
     const nat = fullPhone();
-    const email = femail ? femail.value.trim() : "";
     let ok = true;
     
     if (!name || name.length < 2) {
@@ -419,11 +417,6 @@ if (b3) {
     if (!nat || nat.length < 5 || nat.length > 15) {
       const ePhone = $("e_phone");
       if (ePhone) ePhone.textContent = "Please enter a valid phone number.";
-      ok = false;
-    }
-    if (!email || email.length < 3 || !email.includes("@")) {
-      const eEmail = $("e_email");
-      if (eEmail) eEmail.textContent = "Please enter your email address.";
       ok = false;
     }
     
@@ -442,7 +435,7 @@ if (b3) {
       country_code: "+" + cDial,
       phone: nat,
       phone_international: "+" + cDial + nat,
-      email: email
+      email: ""
     });
 
     try {
@@ -532,7 +525,7 @@ function showPlan(v, swap) {
     h += '<div class="psec">' + esc(sec.h) + '</div><ul class="pitems">' + sec.items.map(i => '<li><h3>' + esc(i[0]) + '</h3><p>' + esc(i[1]) + '</p></li>').join("") + '</ul>';
   });
   if (dBody) dBody.innerHTML = h + '</div>';
-  if (l6) l6.textContent = (plan === 4500 ? "View the VIP Dark Feminine Mastery Pack (₦8,500)" : "View the Standard Digital Ebook (₦4,500)");
+  if (l6) l6.style.display = "none";
   if (e6) e6.textContent = "";
 }
 
@@ -546,6 +539,7 @@ document.querySelectorAll("#amts .plan").forEach(b => {
 
 const l6 = $("l6");
 if (l6) {
+  l6.style.display = "none";
   l6.onclick = (e) => {
     e.preventDefault();
     showPlan(plan === 4500 ? 8500 : 4500, true);
@@ -616,8 +610,11 @@ if (bcheck) {
   };
 }
 
-/* Exit-Intent & Mobile Back-Button Interception */
+/* Exit-Intent & Mobile Back-Button Interception (PAUSED) */
 (function() {
+  const ENABLE_EXIT_INTENT = false; // Paused as requested
+  if (!ENABLE_EXIT_INTENT) return;
+
   let shown = false;
   const overlay = document.getElementById('exitIntentModal');
   const cta = document.getElementById('emCta');

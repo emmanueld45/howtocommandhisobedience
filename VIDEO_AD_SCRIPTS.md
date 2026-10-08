@@ -72,7 +72,7 @@ This production pack is designed for creating high-converting Facebook, Instagra
   > `Medium shot of a radiant, sophisticated Black woman smiling serenely, confident eye contact, luxury modern apartment background with warm city lights outside the window. Smooth slow zoom out, premium editorial look.`
 * **On-Screen Text Overlay**: 
   > **GET THE COMPLETE 10-CHAPTER GUIDE — ₦4,500**  
-  > *Instant PDF & ePub Download + 3 Free Bonuses*  
+  > *Instant PDF Download + 3 Free Bonuses*  
   > **👉 Tap 'Learn More' Below**
 * **Voiceover (VO)**: 
   > "Download the complete 10-chapter guide today for just ₦4,500. Tap the link below for immediate access."
